@@ -1,0 +1,67 @@
+
+body{
+    background-color: whitesmoke;
+}
+
+h1, h4{
+    color: black;
+}
+.navigation{
+    width: 100%;
+    position: relative;
+    min-height: 60px;
+}
+
+#cupholder{
+    background-color:  #a4a4a4 !important;
+}
+#navbarNav{
+    justify-content: flex-end;
+    
+}
+
+.navbar-brand{
+    color: whitesmoke ! important ;
+}
+
+.navbar-light, .navbar-nav, .nav-link{
+    background-color: #a4a4a4;
+    color: whitesmoke !important;
+    font-weight: 600 !important;
+    padding-left: 1.2rem !important;
+    padding-right: 1.2rem !important;
+}
+
+/* buttons */
+.btn{
+    background-color: #2299aa !important;
+    border-radius: 2rem !important;
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+    color:#ffffff !important;
+    border:none;
+}
+.banner{
+    background-color: whitesmoke   ;
+}
+
+#contactHeader, h5, #abtusHeader{
+    color: #f6a817;
+}
+
+   /* The message box is shown when the user clicks on the password field */
+   #message {
+    display:none;
+    background: #f1f1f1;
+    color: #000;
+    position: relative;
+    padding: 20px;
+    margin-top: 10px;
+    }
+
+    #message p {
+    padding: 10px 35px;
+    font-size: 18px;
+    }
+
+    
